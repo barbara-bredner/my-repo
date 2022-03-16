@@ -1,3 +1,3 @@
 # my-repo
-test repository
+test repository  
 description of repository
